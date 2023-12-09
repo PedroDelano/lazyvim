@@ -1,6 +1,6 @@
 return {
   "LazyVim/LazyVim",
   opts = {
-    colorscheme = "monokai-pro.nvim",
+    colorscheme = "monokai-pro",
   },
 }
